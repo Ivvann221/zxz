@@ -1,0 +1,1824 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Can I play music in the background while using other apps or when my device is locked?" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل يمكنني تشغيل الموسيقى في الخلفية أثناء استخدام تطبيقات أخرى أو عندما يكون جهازي مقفلاً؟"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puc reproduir música en segon pla mentre faig servir altres aplicacions o quan el meu dispositiu està bloquejat?"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mohu přehrávat hudbu na pozadí, když používám jiné aplikace nebo když je zařízení zamčené?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan jeg afspille musik i baggrunden, mens jeg bruger andre apps, eller når min enhed er låst?"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kann ich Musik im Hintergrund wiedergeben, während ich andere Apps verwende oder wenn der Bildschirm abgeschaltet ist?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπορώ να αναπαράγω μουσική στο παρασκήνιο ενώ χρησιμοποιώ άλλες εφαρμογές ή όταν η συσκευή μου είναι κλειδωμένη"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can I play music in the background while using other apps or when my device is locked?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Puedo reproducir música de fondo mientras uso otras aplicaciones o cuando mi dispositivo está bloqueado?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voinko toistaa musiikkia taustalla, kun käytän muita sovelluksia tai kun laite on lukittu?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puis-je écouter de la musique en arrière-plan tout en utilisant d'autres applications ou lorsque mon appareil est verrouillé ?"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "האם אוכל להשמיע מוזיקה ברקע בזמן שימוש באפליקציות אחרות או כשהמכשיר שלי נעול?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "क्या मैं अन्य ऐप्स का उपयोग करते समय या जब मेरा डिवाइस लॉक हो तो पृष्ठभूमि में संगीत चला सकता हूँ?"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mogu li reproducirati glazbu u pozadini dok koristim druge aplikacije ili kada mi je uređaj zaključan?"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lejátszhatok zenét a háttérben, miközben más alkalmazásokat használok, vagy amikor a készülék le van zárva?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dapatkah saya memutar musik di latar belakang ketika menggunakan aplikasi lain atau ketika perangkat saya terkunci?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posso riprodurre musica in sfondo mentre uso le altre app o quando il mio dispositivo è bloccato?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "他のアプリを使用中やデバイスがロックされているときに、バックグラウンドで音楽を再生できますか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다른 앱을 사용 중이거나 디바이스가 잠겨 있을 때 백그라운드에서 음악을 재생할 수 있습니까?"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolehkah saya memainkan muzik di latar belakang semasa menggunakan apl lain atau apabila peranti saya dikunci?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan jeg spille av musikk i bakgrunnen mens jeg bruker andre apper eller når enheten er låst?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan ik muziek op de achtergrond afspelen terwijl ik andere apps gebruik of wanneer mijn apparaat vergrendeld is?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czy mogę odtwarzać muzykę w tle podczas korzystania z innych aplikacji lub gdy moje urządzenie jest zablokowane?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posso reproduzir música em segundo plano enquanto uso outros aplicativos ou quando meu dispositivo está bloqueado?"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posso reproduzir música no fundo enquanto utilizo outras aplicações ou quando o meu dispositivo está bloqueado?"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pot reda muzică în fundal în timp ce folosesc alte aplicații sau când dispozitivul meu este blocat?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Можно ли воспроизводить музыку в фоновом режиме во время работы с другими приложениями или когда устройство заблокировано?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan jag spela musik i bakgrunden när jag använder andra appar eller när min enhet är låst?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฉันสามารถเล่นเพลงในพื้นหลังขณะใช้แอพอื่นหรือเมื่ออุปกรณ์ของฉันล็อคอยู่ได้หรือไม่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diğer uygulamaları kullanırken veya cihazım kilitliyken arka planda müzik çalabilir miyim?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чи можу я відтворювати музику у фоновому режимі під час використання інших програм або коли мій пристрій заблоковано?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tôi có thể phát nhạc ở chế độ nền trong khi sử dụng các ứng dụng khác hoặc khi thiết bị của tôi bị khóa không?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我可以在使⽤其他应⽤程序或设备锁定时，同时播放⾳乐吗？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用其他應用程式或裝置鎖定時可以在背景播放音樂嗎？"
+          }
+        }
+      }
+    },
+    "Does this app stream audio from the internet?" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل يقوم هذا التطبيق ببث الصوت من الإنترنت؟"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aquesta aplicació transmet àudio des d'Internet?"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přenáší tato aplikace zvuk z internetu?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streamer denne app lyd fra internettet?"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streamt diese Anwendung Audio aus dem Internet?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αυτή η εφαρμογή κάνει streaming ήχου από το διαδίκτυο"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Does this app stream audio from the internet?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Esta aplicación transmite audio desde internet?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suoratoistetaanko tällä sovelluksella ääntä internetistä?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cette application diffuse-t-elle de l'audio en continu à partir d'Internet ?"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "האם האפליקציה הזו מזרימה אודיו מהאינטרנט?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "क्या यह ऐप इंटरनेट से ऑडियो स्ट्रीम करता है?"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prenosi li ova aplikacija zvuk s interneta?"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ez az alkalmazás streamel hangot az internetről?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apakah aplikasi ini melakukan streaming audio dari internet?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questa app riproduce audio da internet?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリはインターネットからオーディオをストリーミングしますか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 앱은 인터넷에서 오디오를 스트리밍합니까?"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adakah apl ini menstrim audio daripada internet?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streamer denne appen lyd fra internett?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streamt deze app audio van het internet?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czy ta aplikacja przesyła strumieniowo dźwięk z Internetu?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esse aplicativo faz streaming de áudio da Internet?"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicação reproduz áudio a partir da Internet?"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Această aplicație are transmisiune audio de pe internet?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Передает ли это приложение потоковое аудио из Интернета?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streamar den här appen ljud från internet?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แอปนี้สตรีมเสียงจากอินเทอร์เน็ตหรือไม่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu uygulama internetten ses akışı sağlıyor mu?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чи цей додаток програє аудіо з Інтернету?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng này có truyền phát âm thanh từ internet không?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这款应⽤程序是否可以从互联⽹上播放⾳频？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此應用程式是否從網路傳輸音訊？"
+          }
+        }
+      }
+    },
+    "FAQ" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأسئلة الشائعة"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συχνές Ερωτήσεις"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preguntas Frecuentes"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UKK"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सामान्य प्रश्न"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Česta pitanja"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GYIK"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perguntas Frequentes"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Întrebări"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คำถามที่ถามบ่อย"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSS"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Câu hỏi thường gặp"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常见问题"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常見問題"
+          }
+        }
+      }
+    },
+    "How can I discover music within this app?" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كيف يمكنني اكتشاف الموسيقى داخل هذا التطبيق؟"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com puc descobrir la música dins d'aquesta aplicació?"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak mohu v této aplikaci objevovat hudbu?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan kan jeg finde musik i denne app?"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie kann ich in dieser App Musik entdecken?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πώς μπορώ να ανακαλύψω μουσική μέσα από αυτή την εφαρμογή"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How can I discover music within this app?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cómo puedo encontrar música dentro de esta aplicación?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miten voin löytää musiikkia tästä sovelluksesta?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment puis-je découvrir de la musique dans cette application ?"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כיצד אוכל לגלות מוזיקה בתוך האפליקציה הזו?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मैं इस ऐप में संगीत कैसे खोज सकता हूँ?"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kako mogu otkriti glazbu unutar ove aplikacije?"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hogyan tudok zenét felfedezni ebben az alkalmazásban?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagaimana cara menemukan musik di dalam aplikasi ini?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come trovare musica in questa app?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリでどのように音楽を発見できますか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 앱에서 음악을 검색하려면 어떻게 해야 하나요?"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagaimanakah saya boleh menemui muzik dalam apl ini?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan kan jeg oppdage musikk i denne appen?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe kan ik muziek ontdekken in deze app?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak mogę odkrywać muzykę w tej aplikacji?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como posso descobrir músicas neste aplicativo?"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como posso encontrar música nesta aplicação?"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cum pot descoperi muzică în cadrul acestei aplicații?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как найти музыку в этом приложении?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur kan jag upptäcka musik i den här appen?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฉันจะค้นพบเพลงในแอพนี้ได้อย่างไร?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu uygulama içinde nasıl müzik keşfedebilirim?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Як знайти музику в цій програмі?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Làm cách nào tôi có thể khám phá âm nhạc trong ứng dụng này?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何在此应用程序中发现音乐？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我如何在此應用程式中發現音樂？"
+          }
+        }
+      }
+    },
+    "No, it exclusively plays audio offline." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا، فهو يقوم حصريًا بتشغيل الصوت دون الاتصال بالإنترنت."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No, reprodueix exclusivament l'àudio fora de línia."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne, přehrává výhradně zvuk offline."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nej, den afspiller udelukkende lyd offline."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nein, sie gibt ausschließlich Audio offline wieder."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όχι, αναπαράγει αποκλειστικά ήχο εκτός σύνδεσης."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No, it exclusively plays audio offline."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No, reproduce exclusivamente audio offline."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei, se toistaa ainoastaan ääntä offline-tilassa."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non, il ne lit que des fichiers audio hors ligne."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "לא, הוא מנגן אודיו באופן בלעדי במצב לא מקוון."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नहीं, यह विशेष रूप से ऑफ़लाइन ऑडियो चलाता है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne, reproducira zvuk isključivo izvan mreže."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nem, kizárólag offline hangot játszik le."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidak, ini secara eksklusif memutar audio secara offline."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No, riproduce solo audio offline."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いいえ、オフラインでオーディオを再生するだけです。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아니요, 오프라인에서만 오디오를 재생합니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidak, ia memainkan audio luar talian secara eksklusif."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nei, den spiller bare av lyd offline."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nee, het speelt alleen offline audio af."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie, odtwarza dźwięk wyłącznie w trybie offline."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não, ele reproduz exclusivamente áudio offline."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não, só reproduz áudio offline."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu, el redă exclusiv audio offline."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нет, он воспроизводит аудио только в автономном режиме."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nej, den spelar endast upp ljud offline."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ จะเล่นเสียงแบบออฟไลน์เท่านั้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hayır, yalnızca sesi çevrimdışı oynatır."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ні, він відтворює аудіо виключно в режимі офлайн."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không, nó chỉ phát âm thanh ngoại tuyến."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不，它仅⽀持离线播放⾳频。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不，它專門離線播放音訊。"
+          }
+        }
+      }
+    },
+    "This app isn't designed for streaming music. Instead, you can import or download your own music files, such as from your computer or via services like Google Drive, Dropbox, or Wi-Fi. The app provides these options for your convenience." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هذا التطبيق غير مصمم لبث الموسيقى. بدلاً من ذلك، يمكنك استيراد أو تنزيل ملفات الموسيقى الخاصة بك، مثلاً من جهاز الكمبيوتر الخاص بك أو عبر خدمات مثل Google Drive أو Dropbox أو Wi-Fi. يوفر التطبيق هذه الخيارات لراحتك."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aquesta aplicació no està dissenyada per reproduir música en temps real. En lloc d'això, podeu importar o baixar els vostres propis fitxers de música, com ara des del vostre ordinador o mitjançant serveis com Google Drive, Dropbox o Wi-Fi. L'aplicació ofereix aquestes opcions per a la vostra comoditat."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tato aplikace není určena pro streamování hudby. Místo toho můžete importovat nebo stahovat vlastní hudební soubory, například z počítače nebo prostřednictvím služeb, jako je Disk Google, Dropbox nebo Wi-Fi. Aplikace tyto možnosti poskytuje pro vaše pohodlí."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denne app er ikke designet til at streame musik. I stedet kan du importere eller downloade dine egne musikfiler, f.eks. fra din computer eller via tjenester som Google Drev, Dropbox eller Wi-Fi. Appen tilbyder disse muligheder for at gøre det nemmere for dig."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese App ist nicht für das Streaming von Musik konzipiert. Stattdessen können Sie Ihre eigenen Musikdateien importieren oder herunterladen, z. B. von Ihrem Computer oder über Dienste wie Google Drive, Dropbox oder WLAN. Die App bietet diese Optionen für Ihre Bequemlichkeit."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αυτή η εφαρμογή δεν έχει σχεδιαστεί για ροή μουσικής. Αντίθετα, μπορείτε να εισάγετε ή να κατεβάσετε τα δικά σας μουσικά αρχεία, όπως από τον υπολογιστή σας ή μέσω υπηρεσιών όπως το Google Drive, το Dropbox ή το Wi-Fi. Η εφαρμογή παρέχει αυτές τις επιλογές για την ευκολία σας."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This app isn't designed for streaming music. Instead, you can import or download your own music files, such as from your computer or via services like Google Drive, Dropbox, or Wi-Fi. The app provides these options for your convenience."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicación no está diseñada para transmitir música. En cambio, puedes importar o descargar tus propios archivos de música, ya sea desde tu computadora o a través de servicios como Google Drive, Dropbox o Wi-Fi. La aplicación ofrece estas opciones para tu comodidad."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tätä sovellusta ei ole suunniteltu musiikin suoratoistoon. Sen sijaan voit tuoda tai ladata omia musiikkitiedostojasi esimerkiksi tietokoneelta tai palveluiden, kuten Google Driven, Dropboxin tai Wi-Fi:n, kautta. Sovellus tarjoaa nämä vaihtoehdot mukavuutesi vuoksi."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cette application n'est pas conçue pour diffuser de la musique en continu. En revanche, vous pouvez importer ou télécharger vos propres fichiers musicaux, depuis votre ordinateur ou via des services tels que Google Drive, Dropbox ou Wi-Fi. L'application propose ces options pour vous faciliter la tâche."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "האפליקציה הזו לא מיועדת להזרמת מוזיקה. במקום זאת, תוכל לייבא או להוריד קובצי מוזיקה משלך, כגון מהמחשב שלך או באמצעות שירותים כמו Google Drive, Dropbox או Wi-Fi. האפליקציה מספקת אפשרויות אלו לנוחיותך."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह ऐप संगीत स्ट्रीमिंग के लिए नहीं बनाया गया है। इसके बजाय, आप अपनी खुद की संगीत फ़ाइलें आयात या डाउनलोड कर सकते हैं, जैसे कि अपने कंप्यूटर से या Google ड्राइव, ड्रॉपबॉक्स, या वाई-फ़ाई जैसी सेवाओं के माध्यम से। ऐप आपकी सुविधा के लिए ये विकल्प प्रदान करता है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ova aplikacija nije dizajnirana za strujanje glazbe. Umjesto toga, možete uvesti ili preuzeti vlastite glazbene datoteke, primjerice sa svog računala ili putem usluga kao što su Google Drive, Dropbox ili Wi-Fi. Aplikacija nudi te opcije radi vaše udobnosti."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ezt az alkalmazást nem zenei streamingre tervezték. Ehelyett importálhatja vagy letöltheti saját zenefájljait, például a számítógépéről vagy olyan szolgáltatásokon keresztül, mint a Google Drive, a Dropbox vagy a Wi-Fi. Az alkalmazás az Ön kényelme érdekében biztosítja ezeket a lehetőségeket."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplikasi ini tidak dirancang untuk streaming musik. Sebagai gantinya, Anda dapat mengimpor atau mengunduh file musik Anda sendiri, misalnya dari komputer atau melalui layanan seperti Google Drive, Dropbox, atau Wi-Fi. Aplikasi ini menyediakan opsi-opsi ini untuk kenyamanan Anda."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questa app non è creata per streaming di musica. Invece puoi importare o scaricare i tuoi propri file musicali, sia dal tuo computer che via servizi come Google Drive, Dropbox o Wi-Fi. L'app fornisce queste opzioni per la tua comodità."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリは音楽をストリーミングするようには設計されていない。その代わり、コンピューターやGoogle Drive、Dropbox、Wi-Fiなどのサービス経由で、自分の音楽ファイルをインポートしたりダウンロードしたりすることができます。このアプリは、あなたの利便性のためにこれらのオプションを提供します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 앱은 음악 스트리밍용으로 설계되지 않았습니다. 대신 컴퓨터나 Google Drive, Dropbox 또는 Wi-Fi와 같은 서비스를 통해 자신의 음악 파일을 가져오거나 다운로드할 수 있습니다. 이 앱은 사용자의 편의를 위해 이러한 옵션을 제공합니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apl ini tidak direka untuk menstrim muzik. Sebaliknya, anda boleh mengimport atau memuat turun fail muzik anda sendiri, seperti dari komputer anda atau melalui perkhidmatan seperti Google Drive, Dropbox atau Wi-Fi. Aplikasi ini menyediakan pilihan ini untuk kemudahan anda."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denne appen er ikke utviklet for strømming av musikk. I stedet kan du importere eller laste ned dine egne musikkfiler, for eksempel fra datamaskinen eller via tjenester som Google Drive, Dropbox eller Wi-Fi. Appen tilbyr disse alternativene for å gjøre det enklere for deg."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deze app is niet ontworpen voor het streamen van muziek. In plaats daarvan kunt u uw eigen muziekbestanden importeren of downloaden, bijvoorbeeld vanaf uw computer of via diensten als Google Drive, Dropbox of Wi-Fi. De app biedt deze opties voor uw gemak."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta aplikacja nie jest przeznaczona do strumieniowego przesyłania muzyki. Zamiast tego można importować lub pobierać własne pliki muzyczne, na przykład z komputera lub za pośrednictwem usług takich jak Dysk Google, Dropbox lub Wi-Fi. Aplikacja udostępnia te opcje dla Państwa wygody."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esse aplicativo não foi projetado para fazer streaming de música. Em vez disso, o usuário pode importar ou fazer download de seus próprios arquivos de música, por exemplo, do seu computador ou por meio de serviços como Google Drive, Dropbox ou Wi-Fi. O aplicativo oferece essas opções para sua conveniência."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicação não foi criada para a transmissão de música. Em vez disso, pode importar ou transferir os seus próprios ficheiros de música, por exemplo, a partir do seu computador ou através de serviços como o Google Drive, Dropbox ou Wi-Fi. A aplicação fornece estas opções para sua conveniência."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Această aplicație nu este proiectată pentru muzica de streaming. În schimb, poți importa sau descărca propriile fișiere muzicale, cum ar fi de pe computer sau prin servicii precum Google Drive, Dropbox, sau Wi-Fi. Aplicația oferă aceste opțiuni pentru confortul tău."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Это приложение не предназначено для потоковой передачи музыки. Вместо этого вы можете импортировать или загружать свои собственные музыкальные файлы, например, со своего компьютера или через такие сервисы, как Google Drive, Dropbox или Wi-Fi. Приложение предоставляет эти возможности для вашего удобства."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den här appen är inte utformad för att strömma musik. Istället kan du importera eller ladda ner dina egna musikfiler, t.ex. från din dator eller via tjänster som Google Drive, Dropbox eller Wi-Fi. Appen tillhandahåller dessa alternativ för din bekvämlighet."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แอพนี้ไม่ได้ออกแบบมาเพื่อการสตรีมเพลง แต่คุณสามารถนำเข้าหรือดาวน์โหลดไฟล์เพลงของคุณเองได้ เช่น จากคอมพิวเตอร์หรือผ่านบริการต่างๆ เช่น Google Drive, Dropbox หรือ Wi-Fi แอพนี้มีตัวเลือกเหล่านี้เพื่อความสะดวกของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu uygulama müzik akışı için tasarlanmamıştır. Bunun yerine, bilgisayarınızdan veya Google Drive, Dropbox veya Wi-Fi gibi hizmetler aracılığıyla kendi müzik dosyalarınızı içe aktarabilir veya indirebilirsiniz. Uygulama size kolaylık sağlamak için bu seçenekleri sunar."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ця програма не призначена для потокової передачі музики. Натомість ви можете імпортувати або завантажувати власні музичні файли, наприклад, зі свого комп’ютера або через такі служби, як Google Drive, Dropbox або Wi-Fi. Додаток надає ці параметри для вашої зручності."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng này không được thiết kế để truyền phát nhạc. Thay vào đó, bạn có thể nhập hoặc tải xuống các tệp nhạc của riêng mình, chẳng hạn như từ máy tính hoặc qua các dịch vụ như Google Drive, Dropbox hoặc Wi-Fi. Ứng dụng cung cấp các tùy chọn này để thuận tiện cho bạn."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这款应⽤程序不⽀持⾳乐流媒体功能。相反，您可以导⼊或下载您⾃⼰的⾳乐⽂件，例如来⾃计算机或通过 Google Drive, Dropbox, 或 Wi-Fi 等服务。该应⽤提供了这些选项，以增加您的便利性。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此應用程式並非專為串流音樂而設計。相反，您可以匯入或下載自己的音樂文件，例如從您的電腦或透過 Google Drive、Dropbox 或 Wi-Fi 等服務匯入或下載。為了您的方便，該應用程式提供了這些選項。"
+          }
+        }
+      }
+    },
+    "This app supports a wide range of audio formats, including MP3, FLAC, WAV, and more, ensuring compatibility with various music files." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يدعم هذا التطبيق مجموعة واسعة من تنسيقات الصوت، بما في ذلك إم بي ثري فلاك واف والمزيد، مما يضمن التوافق مع ملفات الموسيقى المختلفة."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aquesta aplicació admet una àmplia gamma de formats d'àudio, inclosos MP3, FLAC, WAV i més, garantint la compatibilitat amb diversos fitxers de música."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tato aplikace podporuje širokou škálu zvukových formátů, včetně MP3, FLAC, WAV a dalších, což zajišťuje kompatibilitu s různými hudebními soubory."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denne app understøtter en lang række lydformater, herunder MP3, FLAC, WAV og flere, hvilket sikrer kompatibilitet med forskellige musikfiler."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese App unterstützt zahlreiche Audioformate, darunter MP3, FLAC, WAV und andere, wodurch die Kompatibilität mit verschiedenen Musikdateien gewährleistet ist."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αυτή η εφαρμογή υποστηρίζει ένα ευρύ φάσμα μορφών ήχου, όπως MP3, FLAC, WAV και άλλα, εξασφαλίζοντας συμβατότητα με διάφορα αρχεία μουσικής."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This app supports a wide range of audio formats, including MP3, FLAC, WAV, and more, ensuring compatibility with various music files."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicación es compatible con una amplia variedad de formatos de audio, incluyendo MP3, FLAC, WAV y otros, asegurando la compatibilidad con diversos archivos de música."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tämä sovellus tukee useita eri ääniformaatteja, kuten MP3, FLAC, WAV ja muita, mikä takaa yhteensopivuuden eri musiikkitiedostojen kanssa."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cette application prend en charge un large éventail de formats audio, notamment MP3, FLAC, WAV et autres, ce qui garantit la compatibilité avec divers fichiers musicaux."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "אפליקציה זו תומכת במגוון רחב של פורמטי שמע, כולל MP3, FLAC, WAV ועוד, מה שמבטיח תאימות לקובצי מוזיקה שונים."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह ऐप MP3, FLAC, WAV और अन्य सहित ऑडियो प्रारूपों की एक विस्तृत श्रृंखला का समर्थन करता है, जो विभिन्न संगीत फ़ाइलों के साथ संगतता सुनिश्चित करता है।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ova aplikacija podržava širok raspon audio formata, uključujući MP3, FLAC, WAV i druge, osiguravajući kompatibilnost s različitim glazbenim datotekama."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ez az alkalmazás a hangformátumok széles skáláját támogatja, beleértve az MP3, FLAC, WAV és egyéb formátumokat, így biztosítva a kompatibilitást a különböző zenefájlokkal."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplikasi ini mendukung berbagai format audio, termasuk MP3, FLAC, WAV, dan banyak lagi, memastikan kompatibilitas dengan berbagai file musik."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questa app supporta vasta varietà di formati audio, inclusi MP3, FLAC, WAV e altri, garantendo compatibilità con diversi file musicali."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリは、MP3、FLAC、WAVなどの幅広いオーディオフォーマットをサポートし、様々な音楽ファイルとの互換性を保証します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 앱은 MP3, FLAC, WAV 등 다양한 오디오 포맷을 지원하여 다양한 음악 파일과의 호환성을 보장합니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apl ini menyokong pelbagai format audio, termasuk MP3, FLAC, WAV dan banyak lagi, memastikan keserasian dengan pelbagai fail muzik."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denne appen støtter et bredt spekter av lydformater, inkludert MP3, FLAC, WAV med mer, noe som sikrer kompatibilitet med ulike musikkfiler."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deze app ondersteunt een breed scala aan audioformaten, waaronder MP3, FLAC, WAV en meer, waardoor compatibiliteit met verschillende muziekbestanden gegarandeerd is."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplikacja ta obsługuje szeroką gamę formatów audio, w tym MP3, FLAC, WAV i inne, zapewniając kompatybilność z różnymi plikami muzycznymi."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esse aplicativo é compatível com uma ampla variedade de formatos de áudio, incluindo MP3, FLAC, WAV e outros, garantindo a compatibilidade com vários arquivos de música."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicação suporta uma ampla variedade de formatos de áudio, incluindo MP3, FLAC, WAV e outros, garantindo a compatibilidade com vários ficheiros de música."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Această aplicație acceptă o gamă largă de formate audio, inclusiv MP3, FLAC, WAV, și multe altele, asigurând compatibilitatea cu diverse fișiere muzicale."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Это приложение поддерживает широкий спектр аудиоформатов, включая MP3, FLAC, WAV и другие, обеспечивая совместимость с различными музыкальными файлами."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appen stöder ett brett utbud av ljudformat, inklusive MP3, FLAC, WAV med mera, vilket garanterar kompatibilitet med olika musikfiler."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แอพนี้รองรับรูปแบบเสียงที่หลากหลาย รวมถึง MP3, FLAC, WAV และอื่น ๆ อีกมากมาย จึงรับประกันความเข้ากันได้กับไฟล์เพลงต่าง ๆ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu uygulama MP3, FLAC, WAV ve daha fazlası dahil olmak üzere çok çeşitli ses formatlarını destekleyerek çeşitli müzik dosyalarıyla uyumluluk sağlar."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ця програма підтримує широкий спектр аудіоформатів, включаючи MP3, FLAC, WAV тощо, забезпечуючи сумісність із різними музичними файлами."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng này hỗ trợ nhiều định dạng âm thanh, bao gồm MP3, FLAC, WAV, v.v., đảm bảo khả năng tương thích với nhiều tệp nhạc khác nhau."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这款应用程序支持多种音频格式，包括 MP3,FLAC,WAV, 等，确保兼容各种音乐文件。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "該應用程式支援多種音訊格式，包括 MP3、FLAC、WAV 等，可確保與各種音樂檔案的兼容性。"
+          }
+        }
+      }
+    },
+    "What audio formats does this app support?" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ما هي تنسيقات الصوت التي يدعمها هذا التطبيق؟"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quins formats d'àudio admet aquesta aplicació?"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jaké zvukové formáty tato aplikace podporuje?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvilke lydformater understøtter denne app?"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welche Audioformate unterstützt diese App?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι μορφές ήχου υποστηρίζει αυτή η εφαρμογή"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What audio formats does this app support?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Qué formatos de audio admite esta aplicación?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitä ääniformaatteja tämä sovellus tukee?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quels sont les formats audio pris en charge par cette application ?"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "באילו פורמטי שמע האפליקציה הזו תומכת?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह ऐप किन ऑडियो प्रारूपों का समर्थन करता है?"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koje audioformate podržava ova aplikacija?"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Milyen hangformátumokat támogat ez az alkalmazás?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Format audio apa yang didukung aplikasi ini?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quali formati audio supporta questa app?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリはどんなオーディオフォーマットに対応していますか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 앱은 어떤 오디오 형식을 지원하나요?"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apakah format audio yang disokong oleh aplikasi ini?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvilke lydformater støtter denne appen?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welke audio-indelingen ondersteunt deze app?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jakie formaty audio obsługuje ta aplikacja?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quais formatos de áudio são compatíveis com esse aplicativo?"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que formatos de áudio são suportados por esta aplicação?"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce formate audio suportă această aplicație?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Какие аудиоформаты поддерживает это приложение?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vilka ljudformat stöder denna app?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แอปนี้รองรับรูปแบบเสียงใดบ้าง"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu uygulama hangi ses formatlarını destekliyor?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Які аудіоформати підтримує ця програма?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng này hỗ trợ những định dạng âm thanh nào?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这款应用程序支持哪些音频格式？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這個應用程式支援哪些音訊格式？"
+          }
+        }
+      }
+    },
+    "Yes, this app supports background playback, so you can keep the music playing even while using other apps or when your device is locked." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نعم، يدعم هذا التطبيق تشغيل الموسيقى في الخلفية، لذا يمكنك الاستمرار في تشغيل الموسيقى حتى أثناء استخدام تطبيقات أخرى أو عندما يكون جهازك مقفلاً."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sí, aquesta aplicació admet la reproducció en segon pla, de manera que podeu seguir reproduint la música fins i tot mentre feu servir altres aplicacions o quan el vostre dispositiu estigui bloquejat."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ano, tato aplikace podporuje přehrávání na pozadí, takže můžete hudbu přehrávat i při používání jiných aplikací nebo když je zařízení zamčené."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ja, denne app understøtter baggrundsafspilning, så du kan holde musikken kørende, selv når du bruger andre apps, eller når din enhed er låst."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ja, diese App unterstützt die Hintergrundwiedergabe, sodass Sie die Musik auch dann weiter wiedergeben können, wenn Sie andere Apps verwenden oder der Bildschirm abgeschaltet ist."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ναι, αυτή η εφαρμογή υποστηρίζει αναπαραγωγή στο παρασκήνιο, ώστε να μπορείτε να συνεχίσετε να παίζετε μουσική ακόμη και όταν χρησιμοποιείτε άλλες εφαρμογές ή όταν η συσκευή σας είναι κλειδωμένη."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yes, this app supports background playback, so you can keep the music playing even while using other apps or when your device is locked."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sí, esta aplicación admite la reproducción de fondo, así que puedes mantener la reproducción aún mientras usas otras aplicaciones o cuando tu dispositivo está bloqueado."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kyllä, tämä sovellus tukee taustatoistoa, joten voit pitää musiikin soitossa, vaikka käyttäisit muita sovelluksia tai laite olisi lukittu."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oui, cette application prend en charge la lecture en arrière-plan, ce qui vous permet de continuer à écouter de la musique même lorsque vous utilisez d'autres applications ou que votre appareil est verrouillé."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "כן, אפליקציה זו תומכת בהפעלה ברקע, כך שתוכל להמשיך את המוזיקה גם בזמן שימוש באפליקציות אחרות או כשהמכשיר שלך נעול."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हां, यह ऐप बैकग्राउंड प्लेबैक को सपोर्ट करता है, जिससे आप अन्य ऐप का उपयोग करते समय या जब आपका डिवाइस लॉक हो तब भी संगीत चालू रख सकते हैं।"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Da, ova aplikacija podržava reprodukciju u pozadini, tako da možete nastaviti svirati glazbu čak i dok koristite druge aplikacije ili kada je vaš uređaj zaključan."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Igen, ez az alkalmazás támogatja a háttérben történő lejátszást, így a zene akkor is szólhat, ha más alkalmazásokat használ, vagy ha a készülék le van zárva."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya, aplikasi ini mendukung pemutaran latar belakang, sehingga Anda dapat terus memutar musik meskipun sedang menggunakan aplikasi lain atau ketika perangkat Anda terkunci."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si, questa app supporta la riproduzione in sfondo, quindi puoi riprodurre la musica perfino quando usi le altre app o quando il tuo dispositivo è bloccato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "そう、このアプリはバックグラウンド再生に対応しているので、他のアプリを使っているときやデバイスがロックされているときでも音楽を再生し続けることができる。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예, 이 앱은 백그라운드 재생을 지원하므로 다른 앱을 사용 중이거나 기기가 잠겨 있는 상태에서도 음악을 계속 재생할 수 있습니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya, apl ini menyokong main balik latar belakang, jadi anda boleh mengekalkan muzik dimainkan walaupun semasa menggunakan apl lain atau apabila peranti anda dikunci."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ja, denne appen støtter bakgrunnsavspilling, slik at du kan fortsette å spille av musikk selv om du bruker andre apper eller enheten er låst."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ja, deze app ondersteunt afspelen op de achtergrond, dus u kunt de muziek blijven afspelen, zelfs terwijl u andere apps gebruikt of wanneer uw apparaat vergrendeld is."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tak, ta aplikacja obsługuje odtwarzanie w tle, dzięki czemu można odtwarzać muzykę nawet podczas korzystania z innych aplikacji lub gdy urządzenie jest zablokowane."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sim, esse aplicativo é compatível com a reprodução em segundo plano, portanto, você pode manter a música tocando mesmo quando estiver usando outros aplicativos ou quando o dispositivo estiver bloqueado."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sim, esta aplicação suporta a reprodução em fundo, por isso a música continua a tocar mesmo quando utiliza outras aplicações ou quando o dispositivo está bloqueado."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Da, această aplicație suportă redarea în fundal, astfel încât puteți păstra muzica chiar și în timp ce utilizați alte aplicații sau atunci când dispozitivul este blocat."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Да, это приложение поддерживает фоновое воспроизведение, поэтому вы можете продолжать воспроизведение музыки даже во время использования других приложений или когда ваше устройство заблокировано."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ja, den här appen stöder bakgrundsuppspelning, så att du kan fortsätta spela musik även när du använder andra appar eller när enheten är låst."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใช่ แอพนี้รองรับการเล่นในพื้นหลัง ดังนั้นคุณจึงสามารถเล่นเพลงต่อไปได้แม้ในขณะที่ใช้แอพอื่นหรือเมื่ออุปกรณ์ของคุณล็อคอยู่"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evet, bu uygulama arka planda oynatmayı destekler, böylece diğer uygulamaları kullanırken veya cihazınız kilitliyken bile müzik çalmaya devam edebilirsiniz."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Так, ця програма підтримує відтворення у фоновому режимі, тому ви можете продовжувати відтворювати музику навіть під час використання інших програм або коли ваш пристрій заблоковано."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có, ứng dụng này hỗ trợ phát lại trong nền nên bạn có thể tiếp tục phát nhạc ngay cả khi đang sử dụng các ứng dụng khác hoặc khi thiết bị của bạn bị khóa."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "是的，这款应⽤⽀持后台播放，因此您可以在使⽤其他应⽤或设备锁定时继续播放⾳乐。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "是的，此應用程式支援後台播放，因此即使在使用其他應用程式或裝置鎖定時，您也可以繼續播放音樂。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

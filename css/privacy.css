@@ -1,0 +1,105 @@
+.container {
+    max-width: 1110px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.main{
+    padding: 50px 0;
+    background-image: url('../images/privacy.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.main::after{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(34, 147, 215, 0.4);
+    z-index: 1;
+}
+.main__inner {
+    position: relative;
+    z-index: 2;
+    margin-top: 46px;
+}
+.main__header{
+    background: #DCE7F5;
+    border-radius: 14px 14px 0px 0px;
+    padding: 12px 20px;
+}
+.main__title{
+    font-family: 'Days', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: #000000;
+}
+.main__content{
+    padding: 27px 40px;
+    background: #FAFAFA;
+    border-radius: 0px 0px 14px 14px;
+    box-shadow: 0 0px 20px 0 rgba(0, 0, 0, .1254901961);
+}
+
+.main__content p {
+    font-family: 'Varela Round', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000000;
+}
+.main__content p a{
+    text-decoration: underline;
+    color: rgba(8, 95, 251, 1);
+}
+.main__content p span{
+    font-family: 'Days', sans-serif;
+}
+.main__content ul {
+    color: #000;
+    margin-left: 37px;
+}
+
+.main__content ul li{
+    font-family: 'Varela Round', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000000;
+}
+  
+
+@media (max-width: 600px) {
+    .main__content p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .main__title {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .main__header {
+        padding: 10px 20px;
+    }
+    .main__content {
+        padding: 15px 20px;
+    }
+    .main__content p span {
+        font-family: 'Days', sans-serif;
+    }
+    .main__content ul li {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .main__content ul {
+        margin-left: 18px;
+    }
+}
